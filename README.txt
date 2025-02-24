@@ -49,3 +49,5 @@ IDE de desarrollo
 Se ha realizado un desarrollo basado en el enfoque ATDD, donde se han escrito todos los casos de prueba para validar las diferentes 
 reglas de negocio y criterios de aceptacion.
 Dichas pruebas se lanzan de manera automática.
+
+Editador por Daniel
